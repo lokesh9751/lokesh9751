@@ -1,3 +1,6 @@
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lokesh9751&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lokesh9751&layout=compact&theme=tokyonight)
 
 <!--
 **lokesh9751/lokesh9751** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
