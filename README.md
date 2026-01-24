@@ -20,10 +20,10 @@ Here are some ideas to get you started:
 ---
 
 ### 🛠️ Tech Stack
-- HTML, CSS, JavaScript
+- HTML, CSS, JavaScript, SCSS
 - React, Node.js
 - Git, GitHub
-
+- GSAP
 ---
 
 ### 📊 GitHub Stats
