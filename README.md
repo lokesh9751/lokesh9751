@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **lokesh9751/lokesh9751** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi 👋, I'm Lokesh
+
+🚀 Frontend Developer | 💻 JavaScript | 🌱 Learning React
+
+---
+
+### 🛠️ Tech Stack
+- HTML, CSS, JavaScript
+- React, Node.js
+- Git, GitHub
+
+---
+
+### 📊 GitHub Stats
